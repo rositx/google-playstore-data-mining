@@ -1,2 +1,2 @@
 # google-playstore-data-mining
-Explore app ratings, categories, and user reviews with Python. Discover hidden insights, analyze user sentiment, and understand app trends. #python #dataanalysis #playstore 
+Extract app data (downloads, category, reviews, tags) using Python scraping. Analyze trends, sentiment & identify editor's choice apps. Unleash Play Store insights! #python #web scraping #dataanalysis 
